@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 500940,
+    "id": 1,
+    "title": "Strata 3",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/361/footwear/W5720322234-1.jpg"
+  },
+  {
+    "precio": 580800,
+    "id": 2,
+    "title": "Nike revolution 6",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/nike/footwear/DC3728403-1.jpg"
+  },
+  {
+    "precio": 653400,
+    "id": 3,
+    "title": "Nike renew ride 3",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/nike/footwear/DC8185001-1.jpg"
+  },
+  {
+    "precio": 1379400,
+    "id": 4,
+    "title": "Zoom fly 5",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/nike/footwear/DM8968800-1.jpg"
+  },
+  {
+    "precio": 544500,
+    "id": 5,
+    "title": "Nike initiator",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/nike/footwear/394055100-1.jpg"
+  },
+  {
+    "precio": 653.4,
+    "id": 6,
+    "title": "M asics gel pulse",
+    "thumnailUrl": "https://metasports.com.py/media/catalog/product/cache/9286ff1d9737d1c21559f7da6b69729b/asics/footwear/1011B439020-1.jpg"
+  }
+]
